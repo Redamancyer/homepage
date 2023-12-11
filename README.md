@@ -1,0 +1,73 @@
+# StartPage
+简洁美观实用的浏览器起始页项目
+// window.labels = [
+//     {
+//         name: "翻译",
+//         address: "https://fanyi.baidu.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "微博",
+//         address: "https://weibo.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "知乎",
+//         address: "https://www.zhihu.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "WPS云",
+//         address: "https://www.kdocs.cn/",
+//         isRandom: false
+//     },
+//     {
+//         name:"腾讯视频",
+//         address:"https://v.qq.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "Bilibili",
+//         address: "https://www.bilibili.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "优酷",
+//         address: "https://www.youku.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "爱奇艺",
+//         address: "https://www.iqiyi.com/",
+//         isRandom: false
+//     },{
+//         name: "子子影院",
+//         address: "http://www.ziziyy.com/",
+//         isRandom: true
+//     },
+//     {
+//         name: "腾讯云",
+//         address: "https://cloud.tencent.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "阿里云",
+//         address: "https://www.aliyun.com/",
+//         isRandom: false
+//     },
+//     {
+//         name: "知网",
+//         address: "https://www.cnki.net/",
+//         isRandom: false
+//     },
+//     {
+//         name: "空投",
+//         address: "https://airportal.cn/",
+//         isRandom: false
+//     },
+//     {
+//         name: "QQ音乐",
+//         address: "https://y.qq.com/",
+//         isRandom: false
+//     }
+// ]
