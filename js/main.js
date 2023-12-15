@@ -155,13 +155,16 @@ function jump(li) {
     setTimeout(function() { location.reload(); }, 50);
     switch (currentSearchEngine) {
         case 'baidu':
-            window.open('https://www.baidu.com/s?wd=' + li.innerText);
+            // window.open('https://www.baidu.com/s?wd=' + li.innerText);
+            location.href = 'https://www.baidu.com/s?wd=' + li.innerText;
             break;
         case 'bing':
-            window.open('https://www.bing.com/search?q=' + li.innerText);
+            // window.open('https://www.bing.com/search?q=' + li.innerText);
+            location.href = 'https://www.bing.com/search?q=' + li.innerText;
             break;
         case 'google':
-            window.open('https://www.google.com/search?q=' + li.innerText);
+            // window.open('https://www.google.com/search?q=' + li.innerText);
+            location.href = 'https://www.google.com/search?q=' + li.innerText;
             break;
     }
 }
